@@ -1,5 +1,5 @@
 # SAURABH SONI
-+917879299436 • saurabhsoni1101@gmail.com • [linkedin.com/in/saurabhsoni11](https://www.linkedin.com/in/saurabhsoni11) • Indore, MP, India
++917879299436 • saurabhsoni1101@gmail.com • [linkedin.com/in/saurabhsoni11](https://www.linkedin.com/in/saurabhsoni11) • Pune, MH, India
 
 React Native Developer with 3 years of experience. Expert in architecting resilient mobile applications for iOS and Android platforms. Optimizes app performance by up to 90%, creates reusable components, and ensures seamless UI/UX. Skilled in harnessing React Native's capabilities, collaborating within cross-functional teams, and delivering scalable mobile app solutions. Proven track record of meeting corporate objectives and exceeding client expectations through innovative and efficient development practices.
 
