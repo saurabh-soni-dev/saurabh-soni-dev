@@ -7,7 +7,7 @@ React Native Developer with 3 years of experience. Expert in architecting resili
 
 #### Virtual Height IT Services Pvt. Ltd, Indore, Madhya Pradesh
 **React Native Developer**  
-*April 2023 - Present (1 Year)*
+*April 2023 - Present (1.4 Year)*
 - Developed cross-platform mobile applications, showcasing expertise in React Native, resulting in a 25% increase in user engagement. App link: [Google Play Store](https://play.google.com/store/apps/details?id=com.connplexfranchise)
 - Integrated Google Maps, providing seamless location-based services, and enhancing user experience and navigation within the app.
 - Incorporated CometChat SDK, enabling real-time chat functionality and fostering interactive user engagement.
