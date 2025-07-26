@@ -1,42 +1,84 @@
-# SAURABH SONI
-+917879299436 • saurabhsoni1101@gmail.com • [linkedin.com/in/saurabhsoni11](https://www.linkedin.com/in/saurabhsoni11) • Pune, MH, India
+<h1 align="center">Hi 👋, I'm Saurabh Soni</h1>
 
-React Native Developer with 3 years of experience. Expert in architecting resilient mobile applications for iOS and Android platforms. Optimizes app performance by up to 90%, creates reusable components, and ensures seamless UI/UX. Skilled in harnessing React Native's capabilities, collaborating within cross-functional teams, and delivering scalable mobile app solutions. Proven track record of meeting corporate objectives and exceeding client expectations through innovative and efficient development practices.
+<p align="center">
+  🚀 Full Stack Developer | React Native • React.js • Node.js <br />
+  📍 Pune, MH, India | 📧 saurabhsoni1101@gmail.com | 📞 +91 7879299436 <br />
+  🔗 <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">LinkedIn</a>
+</p>
 
-## PROFESSIONAL EXPERIENCE
+---
 
-#### Virtual Height IT Services Pvt. Ltd, Indore, Madhya Pradesh
-**React Native Developer**  
-*April 2023 - Present (1.4 Year)*
-- Developed cross-platform mobile applications, showcasing expertise in React Native, resulting in a 25% increase in user engagement. App link: [Google Play Store](https://play.google.com/store/apps/details?id=com.connplexfranchise)
-- Integrated Google Maps, providing seamless location-based services, and enhancing user experience and navigation within the app.
-- Incorporated CometChat SDK, enabling real-time chat functionality and fostering interactive user engagement.
-- Integrated Razorpay payment gateway, ensuring secure and efficient in-app transactions for a seamless user payment experience.
-- Designed and implemented custom UI components, emphasizing reusability and enhancing the overall visual appeal of the application.
-- Implemented push notifications for real-time messaging, enhancing user engagement and communication within the app.
-- Utilized JavaScript libraries like Axios, Moment, and Socket.io, optimizing API calls, handling date/time functionalities, and enabling real-time communication.
-- Implemented localization function, providing multilingual support for a global user base.
-- Utilized TypeScript for code optimization, enhancing app performance and maintainability.
-- Optimized onboarding with seamless social media logins for user convenience.
+## 👨‍💻 About Me
 
-#### Intenics Pvt Ltd, Jabalpur, Madhya Pradesh
-**Software Engineer**  
-*Aug 2021 - March 2023 (1.8 Year)*
-- Developed the [CONSOFT App](https://play.google.com/store/apps/details?id=com.consoftapp), a MERN stack application, achieving a 30% enhancement in construction site oversight.
-- Elevated application interactivity and visual appeal by 25% through advanced front-end proficiency.
-- Improved data retrieval efficiency by 20% via React Axios for web API calls and real-time state updates.
-- Implemented react-redux, yielding a 15% performance boost through seamless state management.
-- Optimized app performance using React's useMemo and useCallback hooks, coupled with external CSS.
-- Ensured code robustness with Typescript, designing reusable components for auth and other screens.
+I'm a passionate Full Stack Developer with 3.5+ years of experience specializing in **React Native**, **React.js**, and **Node.js**. I thrive on building performant mobile & web applications, creating reusable components, and delivering intuitive user experiences. I enjoy solving challenging problems and collaborating with cross-functional teams to ship scalable, maintainable products.
 
-## EDUCATION
+---
 
-**Shri Ram Institute of Science & Technology (SRIST), Jabalpur, Madhya Pradesh**
-- Bachelor of Engineering - Computer Science
-- 2016 - 2020
+## 🛠 Tech Stack
 
-## TECHNICAL SKILLS & TOOLS
+### 🚀 Frontend
+- React Native, React.js, TypeScript, JavaScript (ES6+)
+- Redux Toolkit, Context API, React Hooks
+- HTML5, CSS3, Bootstrap 5
 
-- **Frontend:** React Native, JavaScript(ES6), TypeScript, React, Redux, Redux toolkit, Context API, HTML5, CSS3, Bootstrap5, REST API integration, firebase, JSON.
-- **DevOps:** Git, GitHub, Unit testing, CI/CD, TestApp.io
-- **IDE / Tools:** Android Studio, XCode, Visual Studio, Postman, SonarQube, Jest/Mocha
+### ⚙️ Backend & APIs
+- Node.js, Express.js, MongoDB, Firebase, GraphQL
+- REST APIs, Firestore, Authentication, Messaging
+
+### 🧪 DevOps & Tools
+- Git, GitHub, CI/CD, Jest, Mocha, SonarQube, Postman, Chrome DevTools
+- Android Studio, Xcode, VS Code, TestApp.io
+
+---
+
+## 📱 Featured Projects
+
+### 🎬 Connplex Franchise App – [Play Store](https://play.google.com/store/apps/details?id=com.connplexfranchise)
+> Smart theatre franchise app | React Native, TypeScript  
+- Integrated CometChat, Google Maps, Razorpay, Push Notifications  
+- Enhanced performance & localization with reusable components
+
+### 🏗️ Consoft App – [Play Store](https://play.google.com/store/apps/details?id=com.consoftapp)
+> Construction site management tool | MERN Stack  
+- Boosted efficiency with Redux, React Hooks, and API integration  
+- Improved real-time data sync and user experience
+
+### 🛍️ Bareeq E-Commerce App *(Internal App)*  
+> Online product discovery & shopping platform | React Native  
+- Implemented shopping cart, category browsing, subscription logic  
+- Used Redux and Context API for dynamic cart & order management
+
+### 🧘 Syncare Wellness App *(Internal App)*  
+> Health and wellness habit tracker | React Native + Firebase  
+- Built habit streaks, journaling, notification reminders, role-based access  
+- Integrated Firestore DB and Firebase Messaging
+
+### 💬 ChatConnect  
+> Real-time group chat app | MERN + WebSocket + Socket.IO  
+- Multi-room chat, typing indicators, real-time user presence  
+- JWT-based auth, role-based moderation, and emoji support
+
+### 📊 Admin Dashboard (Micro Frontend)  
+> Modular dashboard with dynamic widgets | React.js + Module Federation  
+- Multiple teams contributed isolated micro frontends  
+- Integrated Redux Toolkit and Role-Based Access Control (RBAC)
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (Computer Science)**  
+Shri Ram Institute of Science & Technology (SRIST), Jabalpur  
+📅 2016 – 2020
+
+---
+
+## 🔍 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurabhsoni11)
+- 💌 Email: saurabhsoni1101@gmail.com
+- ☕ Open to freelance & full-time opportunities
+
+---
+
+*Thanks for visiting! Let's build something awesome together 🚀*
