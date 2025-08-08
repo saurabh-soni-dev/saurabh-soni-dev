@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 Full Stack Developer | React Native • React.js • Node.js <br />
-  📍 Pune, MH, India | 📧 saurabhsoni1101@gmail.com | 📞 +91 7879299436 <br />
+  📍 Pune, MH, India | 📧 saurabhsoni1101@gmail.com | 📞 +91 7********* <br />
   🔗 <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">LinkedIn</a>
 </p>
 
