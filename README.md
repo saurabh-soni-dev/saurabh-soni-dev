@@ -1,9 +1,19 @@
-<h1 align="center">Hi 👋, I'm Saurabh Soni</h1>
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#0078ff;">Saurabh Soni</span>
+</h1>
 
 <p align="center">
-  🚀 Full Stack Developer | React Native • React.js • Node.js <br />
-  📍 Pune, Maharashtra, India | 📧 <a href="mailto:saurabhsoni1101@gmail.com">saurabhsoni1101@gmail.com</a> <br />
-  🔗 <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">LinkedIn</a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25" height="25" alt="Dev Icon"/> 
+  <strong>Full Stack Developer</strong> <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="25" height="25"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="25" height="25"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/>
+  <br /><br />
+  <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="18" height="18" alt="Location Icon"/> Pune, MH, India <br />
+  📧 <a href="mailto:saurabhsoni1101@gmail.com">saurabhsoni1101@gmail.com</a> <br /><br />
+  <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 ---
