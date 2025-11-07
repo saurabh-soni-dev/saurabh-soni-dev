@@ -1,20 +1,41 @@
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#0078ff;">Saurabh Soni</span>
-</h1>
+<!-- Profile Header -->
+<div align="center">
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="25" height="25" alt="Dev Icon"/> 
-  <strong>Full Stack Developer</strong> <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="25" height="25"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="25" height="25"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/>
-  <br /><br />
-  <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" width="18" height="18" alt="Location Icon"/> Pune, MH, India <br />
-  📧 <a href="mailto:saurabhsoni1101@gmail.com">saurabhsoni1101@gmail.com</a> <br /><br />
-  <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+  <!-- 👤 Profile Image -->
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" 
+       alt="Saurabh Soni" 
+       width="130" 
+       style="border-radius: 50%; border: 3px solid #0078ff; margin-bottom: 10px;" />
+
+  <!-- 💬 Name -->
+  <h1 style="font-size: 28px; color: #0078ff; margin-bottom: 5px;">Saurabh Soni</h1>
+
+  <!-- 💻 Role and Tech Stack -->
+  <p style="font-size: 16px;">
+    💼 <strong>Software Engineer</strong> | ⚛️ React Native | ⚛️ React.js | 🌿 Node.js
+  </p>
+
+  <!-- 🌐 Social Links -->
+  <p>
+    <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:saurabhsoni1101@gmail.com" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/saurabh-soni-dev" target="_blank" style="text-decoration:none;">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+
+  <!-- 📍 Location -->
+  <p>
+    <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" 
+         width="16" height="16" alt="Location Icon"/> Pune, India
+  </p>
+
+</div>
+
 
 ---
 
