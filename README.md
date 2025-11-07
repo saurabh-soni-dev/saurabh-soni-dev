@@ -2,13 +2,13 @@
 
 <p align="center">
   🚀 Full Stack Developer | React Native • React.js • Node.js <br />
-  📍 Pune, MH, India | 📧 saurabhsoni1101@gmail.com | 📞 +91 7********* <br />
+  📍 Pune, MH, India | 📧 saurabhsoni1101@gmail.com <br />
   🔗 <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">LinkedIn</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Summary
 
 Passionate Full Stack Developer with **3.5+ years** of experience specializing in **React Native**, **React.js**, and **Node.js**.  
 I excel at building **cross-platform mobile and web apps**, focusing on **performance**, **maintainability**, and **scalable architecture**.  
