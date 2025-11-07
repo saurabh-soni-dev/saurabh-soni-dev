@@ -1,9 +1,19 @@
+Copy code
 <h1 align="center">Hi 👋, I'm Saurabh Soni</h1>
 
 <p align="center">
   🚀 Full Stack Developer | React Native • React.js • Node.js <br />
-  📍 Pune, MH, India | 📧 saurabhsoni1101@gmail.com <br />
-  🔗 <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">LinkedIn</a>
+  📍 Pune, Maharashtra, India | 📧 <a href="mailto:saurabhsoni1101@gmail.com">saurabhsoni1101@gmail.com</a> <br />
+  🔗 <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">LinkedIn</a> | 
+  <a href="https://github.com/yourusername" target="_blank">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
