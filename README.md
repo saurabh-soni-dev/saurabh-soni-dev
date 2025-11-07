@@ -1,146 +1,147 @@
-<!-- Profile Header -->
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Saurabh Soni | GitHub Profile</title>
 
-  <!-- 👤 Profile Image -->
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" 
-       alt="Saurabh Soni" 
-       width="130" 
-       style="border-radius: 50%; border: 3px solid #0078ff; margin-bottom: 10px;" />
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #0d1117;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
 
-  <!-- 💬 Name -->
-  <h1 style="font-size: 28px; color: #0078ff; margin-bottom: 5px;">Saurabh Soni</h1>
+    .profile-container {
+      background-color: #0d1117;
+      text-align: center;
+      padding: 40px 20px;
+      border-radius: 16px;
+      box-shadow: 0 0 25px rgba(0, 120, 255, 0.1);
+      width: 90%;
+      max-width: 450px;
+    }
 
-  <!-- 💻 Role and Tech Stack -->
-  <p style="font-size: 16px;">
-    💼 <strong>Software Engineer</strong> | ⚛️ React Native | ⚛️ React.js | 🌿 Node.js
-  </p>
+    .profile-container img.profile-pic {
+      border-radius: 50%;
+      border: 3px solid #0078ff;
+      width: 120px;
+      height: 120px;
+      margin-bottom: 15px;
+      transition: transform 0.3s ease;
+    }
 
-  <!-- 🌐 Social Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:saurabhsoni1101@gmail.com" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/saurabh-soni-dev" target="_blank" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-  </p>
+    .profile-container img.profile-pic:hover {
+      transform: scale(1.05);
+    }
 
-  <!-- 📍 Location -->
-  <p>
-    <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" 
-         width="16" height="16" alt="Location Icon"/> Pune, India
-  </p>
+    .profile-container h1 {
+      color: #ffffff;
+      margin: 8px 0;
+      font-size: 26px;
+    }
 
-</div>
+    .profile-container p.role {
+      color: #c9d1d9;
+      font-size: 15px;
+      margin-bottom: 20px;
+    }
 
+    .social-icons {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 15px;
+    }
 
----
+    .social-icons a img {
+      width: 30px;
+      height: 30px;
+      border: 1.5px solid #0078ff;
+      border-radius: 50%;
+      padding: 5px;
+      background-color: #ffffff10;
+      transition: all 0.3s ease;
+    }
 
-## Summary
+    .social-icons a img:hover {
+      transform: scale(1.1);
+      background-color: #0078ff33;
+    }
 
-Passionate Full Stack Developer with **3.5+ years** of experience specializing in **React Native**, **React.js**, and **Node.js**.  
-I excel at building **cross-platform mobile and web apps**, focusing on **performance**, **maintainability**, and **scalable architecture**.  
-I thrive in collaborative environments, transforming complex business needs into intuitive user experiences.
+    .location {
+      color: #c9d1d9;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+    }
 
----
+    .location img {
+      width: 16px;
+      height: 16px;
+      vertical-align: middle;
+    }
 
-## 🛠 Tech Stack
+    @media (max-width: 480px) {
+      .profile-container {
+        padding: 30px 15px;
+      }
 
-### 🚀 Frontend
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+      .profile-container h1 {
+        font-size: 22px;
+      }
 
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-007396?style=for-the-badge&logo=api&logoColor=white)
+      .profile-container p.role {
+        font-size: 13px;
+      }
 
-### 🧪 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+      .social-icons a img {
+        width: 26px;
+        height: 26px;
+      }
+    }
+  </style>
+</head>
 
----
+<body>
+  <div class="profile-container">
+    <!-- 👤 Profile Image -->
+    <img src="https://avatars.githubusercontent.com/u/00000000?v=4" 
+         alt="Saurabh Soni" 
+         class="profile-pic" />
 
-## 📱 Featured Projects
+    <!-- 💬 Name -->
+    <h1>Saurabh Soni</h1>
 
-### 🎬 Connplex Franchise App – [Play Store](https://play.google.com/store/apps/details?id=com.connplexfranchise)  
-**Smart Theatre Franchise Platform | React Native, TypeScript**  
-- Integrated CometChat, Google Maps, Razorpay, and push notifications  
-- Streamlined leasing process and franchisee onboarding  
-- Supported rapid expansion of smart theatres across India  
+    <!-- 💻 Role and Tech -->
+    <p class="role">
+      💼 Software Engineer | ⚛️ React Native | ⚛️ React.js | 🌿 Node.js
+    </p>
 
-### 🏗️ Consoft Site Management – [Play Store](https://play.google.com/store/apps/details?id=com.consoftapp)  
-**Construction Site Management App | MERN Stack**  
-- Developed dynamic modules for vendor tracking and approvals  
-- Used Redux and Hooks for efficient state and form management  
-- Enhanced UX with real-time sync and performance optimization  
+    <!-- 🌐 Social Icons -->
+    <div class="social-icons">
+      <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+      </a>
+      <a href="https://github.com/saurabh-soni-dev" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
+      </a>
+      <a href="mailto:saurabhsoni1101@gmail.com">
+        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" />
+      </a>
+    </div>
 
-### 🛍️ Bareeq E-Commerce *(Internal)*  
-**Shopping Platform | React Native + Redux**  
-- Built product discovery, shopping cart, and subscriptions  
-- Implemented Context API for dynamic cart/order flow  
-- Optimized rendering and lazy loading for performance  
-
-### 🧘 Syncare Wellness App *(Internal)*  
-**Wellness Habit Tracker | React Native + Firebase**  
-- Created journaling, habit streaks, and notification flows  
-- Integrated Firebase Auth, Firestore, and FCM  
-- Focused on accessibility, offline mode & role-based access  
-
-### 💬 ChatConnect  
-**Real-Time Chat App | MERN + WebSocket**  
-- Multi-room support with typing indicators and presence  
-- Used JWT, Socket.IO, and emoji/sticker features  
-- Admin moderation and real-time notifications  
-
-### 📊 Micro Frontend Dashboard  
-**Admin Dashboard | React.js + Module Federation**  
-- Integrated dynamic widgets with RBAC and isolated builds  
-- Developed auth flows, shared libraries, and custom hooks  
-- Improved scalability with microfrontend architecture  
-
----
-
-## 🎓 Education
-**Bachelor of Engineering in Computer Science**  
-Shri Ram Institute of Science & Technology, Jabalpur  
-📅 2016 – 2020
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🤝 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/saurabhsoni11)  
-- 📧 Email: **saurabhsoni1101@gmail.com**  
-- ☕ Open to freelance & full-time roles  
-
----
-
-_Thanks for stopping by! Let's build something amazing together 🚀_
+    <!-- 📍 Location -->
+    <div class="location">
+      <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" alt="Location" />
+      <span>Pune, India</span>
+    </div>
+  </div>
+</body>
+</html>
