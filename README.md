@@ -1,18 +1,4 @@
 <div align="center" style="padding: 20px 0;">
-  <img 
-    src="https://avatars.githubusercontent.com/saurabh-soni-dev" 
-    alt="Saurabh Soni" 
-    width="150"
-    style="
-      border-radius: 50%; 
-      border: 3px solid transparent; 
-      background: linear-gradient(45deg, #0078ff, #00d4ff) padding-box, 
-                  linear-gradient(45deg, #0078ff, #00d4ff) border-box;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.4); 
-      margin-bottom: 15px;
-    "
-  />
-
   <h1 style="
     background: linear-gradient(90deg, #0078ff, #00d4ff); 
     -webkit-background-clip: text; 
@@ -21,7 +7,7 @@
     font-weight: 700; 
     margin: 10px 0 5px 0;
   ">
-    Saurabh Soni
+    Hi 👋, I'm Saurabh Soni
   </h1>
 
   <!-- Gradient underline -->
@@ -32,15 +18,12 @@
     border-radius: 2px;
     margin: 0 auto 25px auto;
   "></div>
-
-  <p style="
-    color:#c9d1d9; 
-    font-size:18px; 
-    font-weight: 500; 
-    margin: 8px 0 20px 0;
-  ">
+  
+  <h3>
     Software Engineer&nbsp;|&nbsp;React.js&nbsp;&amp;&nbsp;React Native&nbsp;|&nbsp;Node.js
-  </p>
+  </h3>
+
+
 
   <!-- Social Icons -->
   <div style="display:flex;justify-content:center;align-items:center;gap:20px;margin:25px 0;flex-wrap:wrap;">
