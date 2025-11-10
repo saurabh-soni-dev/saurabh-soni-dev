@@ -55,9 +55,27 @@
 ## 💼 Projects
 | S.No. | Project | Description | Tech Stack |
 |-------|----------|--------------|-------------|
-| 1 | [Bodify](https://github.com/saurabh-soni-dev/bodify-app) | Health & wellness management platform to track user goals. | React Native, Redux, Firebase |
-| 2 | [MyntraApp](https://github.com/saurabh-soni-dev/MyntraApp) | E-commerce app like Myntra. | React Native |
-| 3 | [Spotify-Clone](https://github.com/saurabh-soni-dev/Spotify) | Spotify clone app. | React Native, Context API, MMKV |
+| 1 | [Bodify](https://github.com/saurabh-soni-dev/bodify-app) | A complete health & wellness management app that helps users track fitness goals, monitor progress, and manage daily activities. | React Native, Redux, Firebase, TypeScript |
+| 2 | [Myntra Clone – E-commerce App](https://github.com/saurabh-soni-dev/MyntraApp) | A fully responsive e-commerce app inspired by Myntra, featuring product listings, cart management, and navigation flow. | React Native, React Navigation, Context API |
+| 3 | [Spotify Clone – Music Player](https://github.com/saurabh-soni-dev/Spotify) | A music streaming app clone replicating Spotify’s UI/UX with playlist management and persistent local storage. | React Native, Context API, MMKV, TypeScript |
+| 4 | [FastQR – QR Code Scanner](https://github.com/saurabh-soni-dev/FastQRScanner) | A lightweight and fast QR code scanner app with smooth camera integration and instant result display. | React Native, JavaScript, react-native-qrcode-scanner |
+| 5 | [RN Responsive UI Utility](https://github.com/saurabh-soni-dev/RNResponsive) | A responsive layout utility demonstrating adaptive design techniques across different screen sizes. | React Native, JavaScript, react-native-size-scaling |
+| 6 | [Redux Toolkit Pattern](https://github.com/saurabh-soni-dev/ReduxNewPattern) | Demonstrates modern Redux Toolkit patterns for efficient and scalable global state management. | React Native, TypeScript, Redux Toolkit |
+| 7 | [Atomic Design System](https://github.com/saurabh-soni-dev/AtomicDesign) | Implements the Atomic Design pattern for building modular and reusable UI components in React Native. | React Native, JavaScript |
+| 8 | [CometChat – Messaging App](https://github.com/saurabh-soni-dev/CometChat) | A real-time chat application built using CometChat SDK for a seamless messaging experience. | React Native, CometChat SDK |
+| 9 | [Sentry Integration Demo](https://github.com/saurabh-soni-dev/SentrySDk) | Demonstrates error tracking and crash reporting using Sentry SDK integration in React Native. | React Native, Sentry SDK |
+| 10 | [Jest Testing Suite](https://github.com/saurabh-soni-dev/TestingWithJest) | A project showcasing unit and integration testing using Jest and React Native Testing Library. | React Native, Jest |
+| 11 | [Secure Data Storage](https://github.com/saurabh-soni-dev/StoreSensitiveData) | Securely stores sensitive data using Keychain and Encrypted Storage APIs. | React Native, react-native-keychain |
+| 12 | [FirebaseAnalytics](https://github.com/saurabh-soni-dev/FirebaseAnalytics) | Demonstrates Firebase Analytics integration for tracking app usage and user engagement. | React Native, Firebase |
+| 13 | [Healthify](https://github.com/saurabh-soni-dev/Healthify) | A fitness and activity tracking app to monitor daily workouts and calorie burn. | React Native |
+| 14 | [ExitApp – App Lifecycle Control](https://github.com/saurabh-soni-dev/ExitApp) | Example project demonstrating custom app exit handling for Android and iOS. | React Native, JavaScript |
+| 15 | [Chat Composer Component](https://github.com/saurabh-soni-dev/ChatComposer) | A chat UI component library for composing and sending messages in real-time (Assignment). | React Native, TypeScript, React Native navigation |
+| 16 | [File Explorer App](https://github.com/saurabh-soni-dev/FileExplorer) | A React Native file explorer app allowing users to view and manage local storage files (Assignment). | React Native, Typescript, Custom logic |
+| 17 | [React Native CI/CD Setup](https://github.com/saurabh-soni-dev/rn_ci_cd) | Demonstrates CI/CD setup for React Native apps using Firebase and GitHub Actions. | React Native, Github Actions |
+| 18 | [Offline First Architecture](https://github.com/saurabh-soni-dev/OfflineFirst) | Implements an offline-first architecture using local storage and sync on reconnect. | React Native, Redux Persist, AsyncStorage |
+| 19 | [Native Modules Bridge](https://github.com/saurabh-soni-dev/NativeModulesImplementation) | Shows how to bridge native code (Java/Kotlin) with React Native using custom native modules. | React Native, Java, Objective-C |
+| 20 | [Maps & Geolocation Demo](https://github.com/saurabh-soni-dev/map-implement) | A Google Maps integration demo with location markers and geolocation tracking. | React Native, react-native-maps, Geolocation API |
+
 
 ## 🧠 Skills
 <div align="left">
