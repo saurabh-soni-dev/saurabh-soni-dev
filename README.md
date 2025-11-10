@@ -38,6 +38,17 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" style="border:2px solid #0078ff;border-radius:50%;padding:6px;background:#ffff;filter:invert(1);transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
       </a>
     </div>
+    <!-- <p align="center" dir="auto">
+  <a href="https://github.com/jaiswaladi246">
+    <img src="https://camo.githubusercontent.com/5eb0a439d9d6e8f9b54e088311944253dd2862c782f3bdde16c189239269c404/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6a61697377616c6164693234363f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&amp;style=social" style="max-width: 100%;">
+  </a>
+  <a href="https://www.youtube.com/@devopsshack" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/ce7df963b782de63be7e3b32878cbcc6593da251c3a45e75e298b5879b77590c/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f554331584c625f446f5832654e57474b6a6b6832657077413f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" style="max-width: 100%;">
+  </a>
+  <a href="https://linkedin.com/in/adityajaiswal7" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/938d1d787adb90114b20e6321cf2787c7b23bcf9cbf3357d57aa6ce4b8c9a622/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4164697479612532304a61697377616c2d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&amp;style=flat-square" style="max-width: 100%;">
+  </a>
+</p> -->
   </div>
 </div>
 
