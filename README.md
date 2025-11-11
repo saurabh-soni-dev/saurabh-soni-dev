@@ -32,16 +32,13 @@
 
 | S.No | Project | Description | Tech Stack |
 |------|----------|-------------|-------------|
-| 1 | [Bodify](https://github.com/saurabh-soni-dev/bodify-app) | Health & wellness management app for tracking goals and activities. | React Native, Redux, Firebase, TypeScript |
-| 2 | [Myntra Clone](https://github.com/saurabh-soni-dev/MyntraApp) | E-commerce app inspired by Myntra. | React Native, React Navigation, Context API |
-| 3 | [Spotify Clone](https://github.com/saurabh-soni-dev/Spotify) | Music app replicating Spotify UI/UX. | React Native, Context API, MMKV |
-| 4 | [FastQR](https://github.com/saurabh-soni-dev/FastQRScanner) | Lightweight and fast QR scanner app. | React Native, react-native-qrcode-scanner |
-| 5 | [RN Responsive Utility](https://github.com/saurabh-soni-dev/RNResponsive) | Responsive layout utility for React Native. | React Native, react-native-size-scaling |
-| 6 | [Redux Toolkit Pattern](https://github.com/saurabh-soni-dev/ReduxNewPattern) | Scalable state management demo. | React Native, TypeScript, Redux Toolkit |
-| 7 | [CometChat App](https://github.com/saurabh-soni-dev/CometChat) | Real-time messaging using CometChat SDK. | React Native, CometChat SDK |
-| 8 | [CI/CD Setup](https://github.com/saurabh-soni-dev/rn_ci_cd) | Firebase + GitHub Actions setup for RN. | React Native, GitHub Actions |
-| 9 | [Offline First Architecture](https://github.com/saurabh-soni-dev/OfflineFirst) | Local-first architecture with sync on reconnect. | React Native, Redux Persist |
-| 10 | [Native Modules Bridge](https://github.com/saurabh-soni-dev/NativeModulesImplementation) | Bridge native Java/Kotlin modules. | React Native, Java |
+| 1 | [Myntra Clone](https://github.com/saurabh-soni-dev/MyntraApp) | E-commerce app inspired by Myntra. | React Native, React Navigation, Context API |
+| 2 | [Spotify Clone](https://github.com/saurabh-soni-dev/Spotify) | Music app replicating Spotify UI/UX. | React Native, Context API, MMKV |
+| 3 | [RN Responsive Utility](https://github.com/saurabh-soni-dev/RNResponsive) | Responsive layout utility for React Native. | React Native, react-native-size-scaling |
+| 4 | [Redux Toolkit Pattern](https://github.com/saurabh-soni-dev/ReduxNewPattern) | Scalable state management demo. | React Native, TypeScript, Redux Toolkit |
+| 5 | [CI/CD Setup](https://github.com/saurabh-soni-dev/rn_ci_cd) | Firebase + GitHub Actions setup for RN. | React Native, GitHub Actions |
+| 6 | [Offline First Architecture](https://github.com/saurabh-soni-dev/OfflineFirst) | Local-first architecture with sync on reconnect. | React Native, Redux Persist |
+| 7 | [Native Modules Bridge](https://github.com/saurabh-soni-dev/NativeModulesImplementation) | Bridge native Java/Kotlin modules. | React Native, Java |
 
 ---
 
@@ -109,11 +106,44 @@
 ---
 
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">🤝 Let’s Connect</h2>
-<div align="left">
+<!-- <div align="left">
   <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" /></a>
   <a href="mailto:saurabhsoni1101@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" /></a>
   <a href="https://github.com/saurabh-soni-dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" /></a>
-</div>
+</div> -->
+
+<p align="left" dir="auto" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/saurabhsoni11" rel="nofollow" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      alt="LinkedIn" 
+      height="30" 
+      width="40" 
+      style="max-width: 100%; height: auto; max-height: 30px; margin-right: 10px;" 
+    />
+  </a>
+  
+  <a href="https://www.instagram.com/_its.saurabh.soni/" rel="nofollow" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+      alt="Instagram" 
+      height="30" 
+      width="40" 
+      style="max-width: 100%; height: auto; max-height: 30px; margin-right: 10px;" 
+    />
+  </a>
+  
+  <a href="https://www.youtube.com/@saurabh-soni-dev" rel="nofollow" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
+      alt="YouTube" 
+      height="30" 
+      width="40" 
+      style="max-width: 100%; height: auto; max-height: 30px;" 
+    />
+  </a>
+</p>
+
 
 <br/>
 <p><strong>⭐ “Code. Learn. Repeat.” — Saurabh Soni</strong></p>
