@@ -7,50 +7,55 @@
     font-weight: 700; 
     margin: 10px 0 5px 0;
   ">
-    Hi 👋, I'm Saurabh Soni
+   Hey Everyone 👋, I'm Saurabh Soni
   </h1>
 
-  <!-- Gradient underline -->
-  <div style="
-    width: 100%;
-    height: 4px;
-    background: linear-gradient(90deg, #0078ff, #00d4ff);
-    border-radius: 2px;
-    margin: 0 auto 25px auto;
-  "></div>
-  
-  <h3>
-    Software Engineer&nbsp;|&nbsp;React.js&nbsp;&amp;&nbsp;React Native&nbsp;|&nbsp;Node.js
-  </h3>
-
-
-
-  <!-- Social Icons -->
-  <div style="display:flex;justify-content:center;align-items:center;gap:20px;margin:25px 0;flex-wrap:wrap;">
-    <div style="display:flex;gap:15px;">
-      <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32" style="border:2px solid #0078ff;border-radius:50%;padding:6px;background:rgba(0,120,255,0.1);transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <a href="mailto:saurabhsoni1101@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" style="border:2px solid #0078ff;border-radius:50%;padding:6px;background:rgba(0,120,255,0.1);transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-      <a href="https://github.com/saurabh-soni-dev" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32" style="border:2px solid #0078ff;border-radius:50%;padding:6px;background:#ffff;filter:invert(1);transition:transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-      </a>
-    </div>
-    <!-- <p align="center" dir="auto">
-  <a href="https://github.com/jaiswaladi246">
-    <img src="https://camo.githubusercontent.com/5eb0a439d9d6e8f9b54e088311944253dd2862c782f3bdde16c189239269c404/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f6a61697377616c6164693234363f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&amp;style=social" style="max-width: 100%;">
-  </a>
-  <a href="https://www.youtube.com/@devopsshack" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/ce7df963b782de63be7e3b32878cbcc6593da251c3a45e75e298b5879b77590c/68747470733a2f2f696d672e736869656c64732e696f2f796f75747562652f6368616e6e656c2f73756273637269626572732f554331584c625f446f5832654e57474b6a6b6832657077413f7374796c653d736f6369616c" data-canonical-src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" style="max-width: 100%;">
-  </a>
-  <a href="https://linkedin.com/in/adityajaiswal7" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/938d1d787adb90114b20e6321cf2787c7b23bcf9cbf3357d57aa6ce4b8c9a622/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4164697479612532304a61697377616c2d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666c61742d737175617265" data-canonical-src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&amp;style=flat-square" style="max-width: 100%;">
-  </a>
-</p> -->
-  </div>
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/saurabh-soni-dev/SaurabhSoni/blob/main/Profile_banner.png"><img src="https://github.com/saurabh-soni-dev/SaurabhSoni/blob/main/Profile_banner.png" alt="DevOpsShack Banner" style="max-width: 100%;"></a>
 </div>
+
+<div class="markdown-heading" dir="auto">
+ <h3 align="center" class="heading-element" dir="auto">
+  A passionate <strong>Software Engineer</strong> from India, working in the <strong>Corporate IT Sector</strong>.  
+  I create tech videos on <a href="https://www.youtube.com/@saurabh-soni-dev" rel="nofollow">Saurabh-Soni-Dev</a> and share interview insights on <a href="https://theoprac.com/" rel="nofollow">TheOprac</a>.
+</h3>
+
+  <a 
+    id="user-content-a-passionate-software-engineer-from-india-i-work-in-the-corporate-it-sector-and-in-my-free-time-i-make-youtube-videos-at-saurabh-soni-dev-and-write-blogs-on-theoprac" 
+    class="anchor" 
+    aria-label="Permalink: A passionate Software Engineer from India. I work in the Corporate IT Sector, and in my free time, I make YouTube videos at Saurabh-Soni-Dev and write blogs about interview experiences and technical questions on Theoprac." 
+    href="#a-passionate-software-engineer-from-india-i-work-in-the-corporate-it-sector-and-in-my-free-time-i-make-youtube-videos-at-saurabh-soni-dev-and-write-blogs-on-theoprac">
+    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+      <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 
+      0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 
+      1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 
+      2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 
+      0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 
+      0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 
+      .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 
+      3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 
+      0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 
+      0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path>
+    </svg>
+  </a>
+</div>
+
+<p align="center" dir="auto">
+  <!-- GitHub Followers -->
+  <a href="https://img.shields.io/github/followers/saurabh-soni-dev">
+    <img src="https://img.shields.io/github/followers/saurabh-soni-dev" alt="GitHub Followers" />
+  </a>
+
+  <!-- YouTube Subscribers -->
+  <a href="https://img.shields.io/youtube/channel/subscribers/UCvJph-tVbDQxEO8VlUI3aLQ" rel="nofollow">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCvJph-tVbDQxEO8VlUI3aLQ" alt="YouTube Subscribers" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/saurabhsoni11/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Soni-blue?logo=linkedin&style=flat-square" alt="LinkedIn - Saurabh Soni" />
+  </a>
+</p>
 
 ## 🧩 About Me
 <div align="center">
