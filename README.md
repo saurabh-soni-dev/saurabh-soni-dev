@@ -40,7 +40,6 @@
 | 6 | [Offline First Architecture](https://github.com/saurabh-soni-dev/OfflineFirst) | Local-first architecture with sync on reconnect. | React Native, Redux Persist |
 | 7 | [Native Modules Bridge](https://github.com/saurabh-soni-dev/NativeModulesImplementation) | Bridge native Java/Kotlin modules. | React Native, Java |
 
----
 
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">🧠 Skills</h2>
 <div align="left">
@@ -55,8 +54,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="40" title="AWS"/>
 </div>
 
----
-
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">🧰 Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
@@ -70,15 +67,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" title="Yarn"/>
 </div>
 
----
-
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">📊 GitHub Stats</h2>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabh-soni-dev&show_icons=true&theme=react&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh-soni-dev&layout=compact&theme=react&bg_color=0D1117" alt="Top Languages" />
 </div>
-
----
 
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">🧩 Interview Preparation</h2>
 <p style="color:#c9d1d9; font-size:16px;">
@@ -94,7 +87,6 @@
 | 5 | [React Native](https://github.com/saurabh-soni-dev/ReactNative-Interview-QA) |
 | 6 | [Machine Coding Round](https://github.com/saurabh-soni-dev/Interview-Preparation/tree/main/reactjs/Machine-round) |
 
----
 
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">🎓 Education</h2>
 <p>
@@ -103,15 +95,8 @@
 📅 Graduated: 2020
 </p>
 
----
 
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">🤝 Let’s Connect</h2>
-<!-- <div align="left">
-  <a href="https://www.linkedin.com/in/saurabhsoni11" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" /></a>
-  <a href="mailto:saurabhsoni1101@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" /></a>
-  <a href="https://github.com/saurabh-soni-dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" /></a>
-</div> -->
-
 <p align="left" dir="auto" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/saurabhsoni11" rel="nofollow" target="_blank">
     <img 
@@ -143,6 +128,21 @@
     />
   </a>
 </p>
+
+<h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">📚 Resource Ref(GitHub Repositories)</h2>
+
+<div align="left" style="font-size: 16px; line-height: 1.7; margin-top: 10px;">
+  <ul>
+    <li><a href="https://github.com/sudheerj/reactjs-interview-questions" target="_blank" style="color: #00bfff;">React JS Interview Questions</li>
+    <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions" target="_blank" style="color: #00bfff;">JavaScript Output Based Interview Questions</li>
+    <li><a href="https://github.com/sudheerj/javascript-interview-questions" target="_blank" style="color: #00bfff;">JavaScript Interview Questions</li>
+    <li><a href="https://github.com/DopplerHQ/awesome-interview-questions" target="_blank" style="color: #00bfff;">All-in-one Interview Repo</li>
+    <li><a href="https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/tree/master" target="_blank" style="color: #00bfff;">JavaScript Interview Questions - 1</li>
+    <li><a href="https://github.com/khan4019/front-end-Interview-Questions" target="_blank" style="color: #00bfff;">FrontEnd Interview Questions</li>
+    <li><a href="https://github.com/piyush-eon/frontend-interview-questions/tree/master" target="_blank" style="color: #00bfff;">Frontend Practical Exposure</li>
+    <li><a href="https://blog.stackademic.com/genpact-react-native-interview-questions-5fe6403df6e8" target="_blank" style="color: #00bfff;">React Native Interview Experience with Genpact</li>
+  </ul>
+</div>
 
 
 <br/>
