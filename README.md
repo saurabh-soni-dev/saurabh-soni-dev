@@ -88,6 +88,21 @@
 | 6 | [Machine Coding Round](https://github.com/saurabh-soni-dev/Interview-Preparation/tree/main/reactjs/Machine-round) |
 
 
+<h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">📚 Resource Ref(GitHub Repositories)</h2>
+<div align="left" style="font-size: 16px; line-height: 1.7; margin-top: 10px;">
+  <ul>
+    <li><a href="https://github.com/sudheerj/reactjs-interview-questions" target="_blank" style="color: #00bfff;">React JS Interview Questions</li>
+    <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions" target="_blank" style="color: #00bfff;">JavaScript Output Based Interview Questions</li>
+    <li><a href="https://github.com/sudheerj/javascript-interview-questions" target="_blank" style="color: #00bfff;">JavaScript Interview Questions</li>
+    <li><a href="https://github.com/DopplerHQ/awesome-interview-questions" target="_blank" style="color: #00bfff;">All-in-one Interview Repo</li>
+    <li><a href="https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/tree/master" target="_blank" style="color: #00bfff;">JavaScript Interview Questions - 1</li>
+    <li><a href="https://github.com/khan4019/front-end-Interview-Questions" target="_blank" style="color: #00bfff;">FrontEnd Interview Questions</li>
+    <li><a href="https://github.com/piyush-eon/frontend-interview-questions/tree/master" target="_blank" style="color: #00bfff;">Frontend Practical Exposure</li>
+    <li><a href="https://blog.stackademic.com/genpact-react-native-interview-questions-5fe6403df6e8" target="_blank" style="color: #00bfff;">React Native Interview Experience with Genpact</li>
+  </ul>
+</div>
+
+
 <h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">🎓 Education</h2>
 <p>
 🎓 <strong>Bachelor of Engineering (Computer Science)</strong><br/>
@@ -128,22 +143,6 @@
     />
   </a>
 </p>
-
-<h2 align="left" style="font-size: 28px; margin-top: 40px; color: #00bfff;">📚 Resource Ref(GitHub Repositories)</h2>
-
-<div align="left" style="font-size: 16px; line-height: 1.7; margin-top: 10px;">
-  <ul>
-    <li><a href="https://github.com/sudheerj/reactjs-interview-questions" target="_blank" style="color: #00bfff;">React JS Interview Questions</li>
-    <li><a href="https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions" target="_blank" style="color: #00bfff;">JavaScript Output Based Interview Questions</li>
-    <li><a href="https://github.com/sudheerj/javascript-interview-questions" target="_blank" style="color: #00bfff;">JavaScript Interview Questions</li>
-    <li><a href="https://github.com/DopplerHQ/awesome-interview-questions" target="_blank" style="color: #00bfff;">All-in-one Interview Repo</li>
-    <li><a href="https://github.com/priya42bagde/JavaScriptCodingInterviewQuestions/tree/master" target="_blank" style="color: #00bfff;">JavaScript Interview Questions - 1</li>
-    <li><a href="https://github.com/khan4019/front-end-Interview-Questions" target="_blank" style="color: #00bfff;">FrontEnd Interview Questions</li>
-    <li><a href="https://github.com/piyush-eon/frontend-interview-questions/tree/master" target="_blank" style="color: #00bfff;">Frontend Practical Exposure</li>
-    <li><a href="https://blog.stackademic.com/genpact-react-native-interview-questions-5fe6403df6e8" target="_blank" style="color: #00bfff;">React Native Interview Experience with Genpact</li>
-  </ul>
-</div>
-
 
 <br/>
 <p><strong>⭐ “Code. Learn. Repeat.” — Saurabh Soni</strong></p>
